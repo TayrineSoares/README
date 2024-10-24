@@ -4,9 +4,6 @@ This repository contains the notes taken by [Tayrine](https://github.com/Tayrine
 
 
 ## Table of Contents
-- Week 1
-  - Day 1
-
-1. Item One 
-2. Item Two 
-3. Item Three
+- [Week 1](/Week-1)
+  - [Day 1](/Week-1/Day_1/)
+  
